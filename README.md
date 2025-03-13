@@ -12,7 +12,7 @@
 ## LE Codec AUDIO SGTL5000
 ### Configuration préaliables
 
-1) Nous avons fait le choix d'utiliser I2C3 et celui-ci utilise les PINs "PB10" pour la ligne de la clock (SCL) et "PB11" pour la ligne de la data (SDA).
+1) On utilise le I2C3 de la carte et celui-ci utilise les PINs "PB10" pour la ligne de la clock (SCL) et "PB11" pour la ligne de la data (SDA).
 
 2)  
 
